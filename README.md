@@ -8,6 +8,8 @@
 
 ## 安装下载
 
+- 下载地址 https://github.com/nakeking/snake-cache/releases
+
 ## 快速使用
 
 简单接入的文档
