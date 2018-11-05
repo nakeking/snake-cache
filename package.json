@@ -1,6 +1,6 @@
 {
   "name": "snake-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "蛇皮的前端缓存工具，防止内存\"\"\u001b[D侧漏\u001b[\"",
   "main": "src/main.js",
   "scripts": {

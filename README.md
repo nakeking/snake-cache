@@ -9,6 +9,8 @@
 ## 安装下载
 
 - 下载地址 https://github.com/nakeking/snake-cache/releases
+- npm i snake-cache
+- CDN http://unpkg.com/snake-cache/release/bundle.js
 
 ## 快速使用
 

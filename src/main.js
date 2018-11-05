@@ -1,1 +1,3 @@
-console.log('hello, snake皮');
+import {Base} from './utils/base.js';
+
+window.snakeCache = Base;
